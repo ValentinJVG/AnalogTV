@@ -1,5 +1,5 @@
 
-public class AnalogTVAdapter {
+public class TVAdapter {
 
     public static void main(String[] args) {
 
